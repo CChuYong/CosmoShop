@@ -1,0 +1,9 @@
+name: CosmoShop
+version: 1.0.0
+author: ChuYong
+description: CosmoAGE Shop Plugin
+main: chuyong.cosmoshop.CosmoShop
+depend:
+  - CosmoAPI
+  - Vault
+  - CosmoAuctionsDB
